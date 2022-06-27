@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\User\Desktop\C++_Git\HOTEL_MANAGEMENT_SYSTEM\HotelE\MyForm.h(1285,17): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\User\Desktop\C++_Git\HOTEL_MANAGEMENT_SYSTEM\HotelE\MyForm.cpp(7,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  HotelE.vcxproj -> C:\Users\User\Desktop\C++_Git\HOTEL_MANAGEMENT_SYSTEM\x64\Debug\HotelE.exe

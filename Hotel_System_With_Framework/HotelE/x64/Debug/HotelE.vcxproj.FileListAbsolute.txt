@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Projects\HotelE\x64\Debug\HotelE.exe.config
+C:\Users\User\Desktop\Projects\HotelE\HotelE\x64\Debug\HotelE.vcxproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projects\HotelE\HotelE\x64\Debug\HotelE.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Projects\HotelE\HotelE\x64\Debug\HotelE.exe.config
+C:\Users\User\Desktop\Projects\HotelE\HotelE\x64\Debug\HotelE.MyForm.resources
+C:\Users\User\Desktop\Projects\HotelE\HotelE\x64\Debug\HotelE.vcxproj.GenerateResource.cache
+C:\Users\User\Desktop\Projects\HotelE\HotelE\x64\Debug\HotelE.vcxproj.CopyComplete
+C:\Users\User\Desktop\C++_Git\HOTEL_MANAGEMENT_SYSTEM\x64\Debug\HotelE.exe.config
+C:\Users\User\Desktop\C++_Git\HOTEL_MANAGEMENT_SYSTEM\HotelE\x64\Debug\HotelE.vcxproj.AssemblyReference.cache
+C:\Users\User\Desktop\C++_Git\HOTEL_MANAGEMENT_SYSTEM\HotelE\x64\Debug\HotelE.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C++_Git\HOTEL_MANAGEMENT_SYSTEM\HotelE\x64\Debug\HotelE.exe.config
+C:\Users\User\Desktop\C++_Git\HOTEL_MANAGEMENT_SYSTEM\HotelE\x64\Debug\HotelE.MyForm.resources
+C:\Users\User\Desktop\C++_Git\HOTEL_MANAGEMENT_SYSTEM\HotelE\x64\Debug\HotelE.vcxproj.GenerateResource.cache
+C:\Users\User\Desktop\C++_Git\HOTEL_MANAGEMENT_SYSTEM\HotelE\x64\Debug\HotelE.vcxproj.CopyComplete
